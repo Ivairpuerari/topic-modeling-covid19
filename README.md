@@ -7,7 +7,7 @@ Foram extraidos 8 tópicos dos quais representam os principais temas abordados n
 
 Dentre estes tópicos foram encontrados os 5 temas predominantes e rotulado conforme as principais palavras que compoe cada tópico.
 
-Abaixo os temas mais discutidos sobre COVID-19 em ordem decrecente conforme a coleção de documentos.
+Abaixo os temas mais discutidos sobre COVID-19 em ordem conforme a coleção de documentos.
 
 1. Risk Public Health
 2. Viral expression 
