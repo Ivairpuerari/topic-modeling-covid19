@@ -5,9 +5,9 @@ Utilizando modelagem de tópicos para realizar uma análise exploratório sobre 
 
 Foram extraidos 8 tópicos dos quais representam os principais temas abordados na coleção.
 
-Dentre estes tópicos foram encontrados os 5 Assuntos predominantes e rotulado conforme as principais palavras que compoe cada tópico.
+Dentre estes tópicos foram encontrados os 5 temas predominantes e rotulado conforme as principais palavras que compoe cada tópico.
 
-Assuntos:
+Temas:
 * Risk Public Health
 * Viral expression 
 * Viral Genomes
