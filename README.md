@@ -3,7 +3,7 @@ Análise de dados sobre CORD-19-research-challenge.
 
 Utilizado Modelagem de tópicos para realizar uma análise exploratório sobre a coleção de documentos de COVID-19.
 
-Foram extraidos 8 tópicos dos quais representam os principais temas abordados na coleção.
+Foram extraidos 8 tópicos dos quais representam os principais temas abordados na coleção com um modelo de tópico com 57,14% de coerência.
 
 Dentre estes tópicos foram encontrados os 5 temas predominantes e rotulado conforme as principais palavras que compoe cada tópico.
 
